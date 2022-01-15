@@ -9,7 +9,7 @@ import "./voting/TransferrableVotingToken.sol";
  */
 contract SARSToken is TransferrableVotingToken {
     /// @notice The maximum supply of SARS Tokens.
-    uint96 public constant MAX_SUPPLY = 350_000e18;
+    uint96 public constant MAX_SUPPLY = 420_000e18;
 
     /**
      * @notice Construct a new SARS token
